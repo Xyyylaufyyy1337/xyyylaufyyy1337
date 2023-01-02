@@ -14,6 +14,3 @@ Hai, aku seorang Information Security Analyst, juga Pendiri di komunitas 1337Syn
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=xyyylaufyyy1337)](https://twitter.com/Xyyylaufyyy1337)
-
----
-[![](https://visitcount.itsvg.in/api?id=xyyylaufyyy1337&icon=0&color=0)]()
