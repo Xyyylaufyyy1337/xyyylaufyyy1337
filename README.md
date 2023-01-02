@@ -11,6 +11,3 @@ Hai, aku seorang Information Security Analyst, juga Pendiri di komunitas 1337Syn
 ![](https://github-readme-stats.vercel.app/api?username=xyyylaufyyy1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xyyylaufyyy1337&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xyyylaufyyy1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xyyylaufyyy1337)](https://twitter.com/Xyyylaufyyy1337)
